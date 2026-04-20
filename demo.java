@@ -11,10 +11,6 @@ class Main {
 	
 	int diff = first - second;
     System.out.println(first + " + " + second + " = "  + diff);
-	
-	int mul = first * second;
-    System.out.println(first + " + " + second + " = "  + mul);
-
 
 	
   }
